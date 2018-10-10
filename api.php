@@ -11,6 +11,7 @@ define('DB','DB Name');
 // These are the connection statments
 $conn = mysqli_connect(HOST,USER,PASS,DB);
 mysqli_query($conn,'SET CHARACTER SET utf8');
+// HTTP_Method .. you can change it to $_GET method if you need ( not secure )
 $sql = $_POST['sql'];
 mysqli_query($conn,'SET CHARACTER SET utf8');
 $res = mysqli_query($conn,$sql);
