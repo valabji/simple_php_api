@@ -1,4 +1,4 @@
-# simple_php_api
+# simple php api
 PHP Api to connect your android , ios or .net project to mysql DB / Maria DB
 
 first you have to download the api then edit it with your params,
