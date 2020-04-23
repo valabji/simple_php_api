@@ -1,4 +1,9 @@
 # simple php api
+
+- `Warning: For Demo and local Projects Only`
+
+- `Warning: Don't Use this API on Real Project "it's Vulnerable"`
+
 PHP Api to connect your android , ios or .net project to mysql DB / Maria DB
 
 first you have to download the api then edit it with your params,
